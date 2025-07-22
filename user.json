@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Donald Dickens Jr.",
+    "email": "Charlene47@yahoo.com",
+    "gender": "male",
+    "dob": "1967-01-06",
+    "phone": "1-291-390-2861 x9807",
+    "address": "1492 Castle Road Apt. 432",
+    "_id": "687fc7cad8aa7902954acd20",
+    "__v": 0,
+    "createdAt": "2025-07-22T17:18:02.718Z",
+    "updatedAt": "2025-07-22T17:18:02.718Z"
+  },
+  {
+    "name": "Kathryn Barton V",
+    "email": "Alisha_Hintz@gmail.com",
+    "gender": "female",
+    "dob": "1991-02-08",
+    "phone": "429.646.3740 x676",
+    "address": "65824 Hickory Street Apt. 886",
+    "_id": "687fc7cad8aa7902954acd21",
+    "__v": 0,
+    "createdAt": "2025-07-22T17:18:02.738Z",
+    "updatedAt": "2025-07-22T17:18:02.738Z"
+  },
+  {
+    "name": "Jerome McClure",
+    "email": "Lamont.Windler@hotmail.com",
+    "gender": "male",
+    "dob": "1996-12-26",
+    "phone": "645.997.9541",
+    "address": "9427 Vernon Oval Apt. 876",
+    "_id": "687fc7cad8aa7902954acd22",
+    "__v": 0,
+    "createdAt": "2025-07-22T17:18:02.739Z",
+    "updatedAt": "2025-07-22T17:18:02.739Z"
+  },
+  {
+    "name": "Brandy Balistreri-Hilll",
+    "email": "Santa96@gmail.com",
+    "gender": "female",
+    "dob": "1993-06-08",
+    "phone": "1-669-418-5756",
+    "address": "9277 Chad Oval Apt. 969",
+    "_id": "687fc7cad8aa7902954acd23",
+    "__v": 0,
+    "createdAt": "2025-07-22T17:18:02.740Z",
+    "updatedAt": "2025-07-22T17:18:02.740Z"
+  },
+  {
+    "name": "Katie Kshlerin",
+    "email": "Leora_Hessel91@hotmail.com",
+    "gender": "female",
+    "dob": "1982-07-01",
+    "phone": "282.783.2040",
+    "address": "906 Parkside Apt. 177",
+    "_id": "687fc7cad8aa7902954acd24",
+    "__v": 0,
+    "createdAt": "2025-07-22T17:18:02.741Z",
+    "updatedAt": "2025-07-22T17:18:02.741Z"
+  }
+]
